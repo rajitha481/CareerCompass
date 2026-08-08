@@ -186,7 +186,7 @@ This makes the platform useful for women who need guidance on **how to return to
 
 ## 🚀 Live Demo
 
-Try the application here:
+
 
 **CareerCompass:**
 https://partyrock.aws/u/Rajitha481/ISBH7RS2i/CareerCompass
@@ -194,27 +194,12 @@ https://partyrock.aws/u/Rajitha481/ISBH7RS2i/CareerCompass
 ---
 
 ## 📸 Application Screenshots
-
-Add screenshots of your PartyRock application here.
-
-Example:
-
-```markdown
-![CareerCompass Home](screenshots/home.png)
-
-![Career Profile](screenshots/profile.png)
-
-![Career Roadmap](screenshots/roadmap.png)
-```
-
 Recommended screenshots:
 
-1. Home / Introduction
-2. User profile input
-3. Career goal input
-4. Skill-gap analysis
-5. Personalized roadmap
-6. Final action steps
+<img width="1891" height="874" alt="Screenshot 2026-08-08 113705" src="https://github.com/user-attachments/assets/2dcf7646-38b6-459d-9f4c-84a79cc05a0e" />
+<img width="908" height="881" alt="Screenshot 2026-08-08 114330" src="https://github.com/user-attachments/assets/d40f6b5c-c42d-45b5-a4d6-36a4c678f3e0" />
+<img width="1321" height="874" alt="Screenshot 2026-08-08 133339" src="https://github.com/user-attachments/assets/3c6b2026-b0e3-4f73-bf4c-f1680dfdd569" />
+
 
 ---
 
